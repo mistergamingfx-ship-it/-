@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="watcherhorror"
+version="1.0.0"
+displayName="Watcher Horror"
+description='''Хоррор-мод: Наблюдатель всегда смотрит на тебя из темноты.'''
+
+[[dependencies.watcherhorror]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.watcherhorror]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

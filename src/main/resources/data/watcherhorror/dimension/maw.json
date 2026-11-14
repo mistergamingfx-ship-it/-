@@ -1,0 +1,17 @@
+{
+  "type": "watcherhorror:maw",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "features": false,
+      "lakes": false,
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "minecraft:blackstone", "height": 3 },
+        { "block": "minecraft:nether_wart_block", "height": 1 }
+      ],
+      "structure_overrides": []
+    }
+  }
+}
